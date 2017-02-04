@@ -1,2 +1,4 @@
 # hello-world
-Initia venture into github
+Initial venture into github
+
+Just trying to learn to code.
